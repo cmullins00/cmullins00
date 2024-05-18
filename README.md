@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Conner Mullins</h1>
-<h3 align="center">An aspiring software engineer from Idaho</h3>
+<h3 align="center">I am an aspiring software engineer from Idaho. I have graduated from the University of Idaho with a Bachelor of Computer Science. I am eager to try new things, and do not mind a challenge!</h3>
 
-- 📫 How to reach me **connermullins00@gmail.com**
+Feel free to reach out to me at **connermullins00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
