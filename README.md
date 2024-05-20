@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/connermullins00" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="connermullins00" height="60" width="120" /></a>
-<a href="mailto:connermullins00@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="connermullins00@gmail.com" height="60" width="120" /></a>
+<a href="https://linkedin.com/in/connermullins00" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="connermullins00" height="60" width="120" /></a>
+<a href="mailto:connermullins00@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="connermullins00@gmail.com" height="60" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
