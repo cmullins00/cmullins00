@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Conner Mullins!</h1>
 <h3 align="left">&emsp;I am an aspiring software engineer with a Bachelor of Computer Science from the University of Idaho. Passionate about technology and innovation, I am eager to explore new opportunities and challenges in the field. My education and background have equipped me with a solid foundation, and I am excited to try new things and expand my skills as I begin my professional journey.</h3>
 
-<h3 align="left">Here is my <a href="cmullins00/Resume.pdf" target="_blank">Resume</a>. </h3>
+<h3 align="left">Here is my <a href="Resume.pdf" target="_blank">Resume</a>. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/connermullins00" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="connermullins00" height="60" width="120" /></a>
-<a href="mailto:connermullins00@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="connermullins00@gmail.com" height="60" width="120" /></a>
+<a href="https://linkedin.com/in/connermullins00" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="connermullins00" height="60" width="120" /></a>
+<a href="mailto:connermullins00@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="connermullins00@gmail.com" height="60" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
