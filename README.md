@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Conner Mullins!</h1>
-<h3 align="left">&emsp;I am an aspiring software engineer with a Bachelor of Computer Science from the University of Idaho. Passionate about technology and innovation, I am eager to explore new opportunities and challenges in the field. My education and background have equipped me with a solid foundation, and I am excited to try new things and expand my skills as I begin my professional journey.</h3>
+<h3 align="left">I am an aspiring software engineer with a Bachelor of Computer Science from the University of Idaho. Passionate about technology and innovation, I am eager to explore new opportunities and challenges in the field. My education and background have equipped me with a solid foundation, and I am excited to try new things and expand my skills as I begin my professional journey.</h3>
 
 <h3 align="left">Here is my <a href="Resume.pdf" target="_blank">Resume</a>. </h3>
 
